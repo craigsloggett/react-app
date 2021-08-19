@@ -1,9 +1,13 @@
-# dependencies
+# Dependencies
 **/node_modules
 
-# misc
+# Miscellaneous
 **/.DS_Store
 
-# production
+# dotenv Environment Variables File
+**/.env
+
+# Production
 **/build
 **/npm-debug.log*
+
